@@ -1,10 +1,9 @@
 
 #Significant contribution of Components.
 
-	To evaluate most important feature that explains the major part of variance of the
-response. Computing dominant product helps to build high performing models
+	To evaluate most important feature that explains the major part of variance of the response. Computing dominant product helps to build high performing models
 
-Libraries: Caret.
+Library: Caret
 
 Steps involved:
 
